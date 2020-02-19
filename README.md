@@ -3,7 +3,7 @@ About r-emdbook
 
 Home: http://www.math.mcmaster.ca/bolker/emdbook
 
-Package license: GPL
+Package license: GPL-3
 
 Feedstock license: BSD 3-Clause
 
@@ -116,9 +116,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@bgruening](https://github.com/bgruening/)
 * [@conda-forge/r](https://github.com/conda-forge/r/)
-* [@daler](https://github.com/daler/)
-* [@dpryan79](https://github.com/dpryan79/)
-* [@johanneskoester](https://github.com/johanneskoester/)
 
