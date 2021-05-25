@@ -3,7 +3,7 @@ About r-emdbook
 
 Home: http://www.math.mcmaster.ca/bolker/emdbook
 
-Package license: GPL-3
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-emdbook-feedstock/blob/master/LICENSE.txt)
 
