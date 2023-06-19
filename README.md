@@ -1,11 +1,11 @@
-About r-emdbook
-===============
+About r-emdbook-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-emdbook-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.math.mcmaster.ca/bolker/emdbook
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-emdbook-feedstock/blob/main/LICENSE.txt)
 
 Summary: Auxiliary functions and data sets for "Ecological Models and Data", a book presenting maximum likelihood estimation and related topics for ecologists (ISBN 978-0-691-12522-0).
 
